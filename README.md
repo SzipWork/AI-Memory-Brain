@@ -69,4 +69,3 @@ docker-compose up --build
 - If recalling: retrieves memories and generates response.
 - If not recalling: routes through memory filter.
 - Important personal facts are stored in Neo4j.
-- Response is sent back to user.
