@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langgraph
+google-genai
+neo4j
+streamlit
+python-dotenv
+numpy
